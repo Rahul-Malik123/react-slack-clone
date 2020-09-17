@@ -7,7 +7,7 @@ Creating a simple slack clone using React and Firebase. The Bootcamp videos can 
 - Clone the project and then start the project.
 
   ```
-  git clone https://github.com/aakash-cr7/react-slack-clone
+  git clone https://github.com/Rahul-Malik123/react-slack-clone
   cd react-slack-clone
   npm i
   npm start
